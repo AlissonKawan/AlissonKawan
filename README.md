@@ -1,5 +1,7 @@
 # 💻 Alisson Kawan
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF\&size=24\&center=true\&vCenter=true\&width=600\&lines=Dev+em+constru%C3%A7%C3%A3o;Foco+em+Java+e+Back-end;Disciplina+%3E+talento;Evolu%C3%A7%C3%A3o+cont%C3%ADnua)
+
 🎯 Estudante de Análise e Desenvolvimento de Sistemas (FIAP)
 🚀 Em transição para desenvolvedor back-end
 ☕ Focado em Java, APIs REST e Banco de Dados
@@ -9,7 +11,7 @@
 
 ## ⚙️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,react,ts,js,mysql,git)
+![My Skills](https://skillicons.dev/icons?i=java,spring,python,react,ts,js,mysql,git)
 
 ---
 
@@ -28,6 +30,7 @@
 * 💼 Estagiário de TI (Infraestrutura e Suporte)
 * 🧠 Estudando Java e Programação Orientada a Objetos
 * 🔧 Aprendendo APIs REST e integração com banco de dados
+* 🐍 Explorando Python para automação e lógica
 * 🎯 Foco total em migrar para desenvolvimento back-end
 
 ---
