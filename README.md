@@ -43,5 +43,5 @@
 
 ## 📫 Contato
 
-* 💼 LinkedIn: https://www.linkedin.com/in/alisson-kawan-evangelista-silva-5a3355219/
+* 💼 LinkedIn:[https://www.linkedin.com/in/alissonkawan/]
 * 📧 Email: [alissonkawan34@gmail.com](mailto:alissonkawan34@gmail.com)
