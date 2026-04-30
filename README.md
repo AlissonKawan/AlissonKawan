@@ -2,9 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=header"/>
 
-# Alisson Kawan
+<h1>Alisson Kawan</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Dev+Back-end+em+construção;Java+%2B+Spring+Boot;FIAP+%7C+Suporte+TI+→+Dev" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Dev+Back-end+em+constru%C3%A7%C3%A3o;Java+%2B+Spring+Boot;FIAP+%7C+Suporte+TI+%E2%86%92+Dev;Disciplina+%3E+Talento" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlissonKawan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
