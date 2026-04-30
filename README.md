@@ -6,9 +6,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Dev+Back-end+em+construção;Java+%2B+Spring+Boot;FIAP+%7C+Suporte+TI+→+Dev" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alisson-kawan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlissonKawan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=alisson-kawan&style=flat-square&color=00F7FF)
+![Visitors](https://komarev.com/ghpvc/?username=AlissonKawan&style=flat-square&color=00F7FF)
 
 </div>
 
@@ -41,12 +41,12 @@ Foco em **Java, Spring Boot, APIs REST e Banco de Dados**.
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alisson-kawan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-kawan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlissonKawan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonKawan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alisson-kawan&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlissonKawan&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alisson-kawan&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlissonKawan&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
