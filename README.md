@@ -1,47 +1,41 @@
-# 💻 Alisson Kawan
+<!-- Banner superior -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF\&size=24\&center=true\&vCenter=true\&width=600\&lines=Dev+em+constru%C3%A7%C3%A3o;Foco+em+Java+e+Back-end;Disciplina+%3E+talento;Evolu%C3%A7%C3%A3o+cont%C3%ADnua)
+<div align="center">
 
-🎯 Estudante de Análise e Desenvolvimento de Sistemas (FIAP)
-🚀 Em transição para desenvolvedor back-end
-☕ Focado em Java, APIs REST e Banco de Dados
-📚 Aprendendo na prática, errando e evoluindo todos os dias
+# 👨‍💻 Alisson Kawan
 
----
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Dev+em+constru%C3%A7%C3%A3o;Foco+em+Java+e+Back-end;APIs+REST+%7C+Banco+de+Dados+%7C+Spring;Disciplina+%3E+talento;Aprendendo%2C+errando+e+evoluindo" />
 
-## ⚙️ Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=java,spring,python,react,ts,js,mysql,git)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Sobre mim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlissonKawan\&show_icons=true\&theme=tokyonight)
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** e estou em transição para a área de **desenvolvimento back-end**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonKawan\&layout=compact\&theme=tokyonight)
+Atualmente trabalho com **Infraestrutura e Suporte de TI**, o que me dá uma visão prática de sistemas, redes, usuários, problemas reais e ambientes corporativos. Ao mesmo tempo, venho construindo minha base como desenvolvedor, com foco em **Java, Programação Orientada a Objetos, APIs REST e Banco de Dados**.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AlissonKawan\&theme=tokyonight)
+Meu objetivo é simples:
 
----
-
-## 📌 Atualmente
-
-* 💼 Estagiário de TI (Infraestrutura e Suporte)
-* 🧠 Estudando Java e Programação Orientada a Objetos
-* 🔧 Aprendendo APIs REST e integração com banco de dados
-* 🐍 Explorando Python para automação e lógica
-* 🎯 Foco total em migrar para desenvolvimento back-end
+> Sair do suporte sabendo apenas “resolver problemas” e entrar no desenvolvimento sabendo **construir soluções de verdade**.
 
 ---
 
-## 📈 Mentalidade
+## 🎯 Foco atual
 
-> Disciplina vence talento quando talento não é disciplinado.
+```java
+public class AlissonKawan {
+    String objetivo = "Me tornar desenvolvedor back-end";
+    String focoPrincipal = "Java + Spring Boot";
+    String mentalidade = "Disciplina, prática e evolução constante";
 
----
-
-## 📫 Contato
-
-* 💼 LinkedIn:[https://www.linkedin.com/in/alissonkawan/]
-* 📧 Email: [alissonkawan34@gmail.com](mailto:alissonkawan34@gmail.com)
+    public void estudar() {
+        aprender();
+        praticar();
+        errar();
+        corrigir();
+        evoluir();
+    }
+}
