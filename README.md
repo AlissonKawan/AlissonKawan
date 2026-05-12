@@ -2,12 +2,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=180&section=header&text=Alisson%20Kawan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Java+Back-end+Developer;Spring+Boot+%7C+APIs+REST+%7C+SQL;React+%2B+TypeScript+no+Front;Construindo+projetos+reais+toda+semana;Disciplina+%3E+Motiva%C3%A7%C3%A3o"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=Java+Developer;Back-end+Developer;Spring+Boot+%7C+REST+APIs+%7C+SQL;React+%2B+TypeScript;FIAP+%7C+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Disciplina+%3E+Talento" />
 
 <br/>
 
 <a href="https://linkedin.com/in/AlissonKawan">
-  <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:alissonkawan34@gmail.com">
@@ -15,12 +15,12 @@
 </a>
 
 <a href="https://github.com/AlissonKawan">
-  <img src="https://img.shields.io/github/followers/AlissonKawan?style=for-the-badge&color=7F5AF0&labelColor=111827"/>
+  <img src="https://img.shields.io/github/followers/AlissonKawan?style=for-the-badge&color=8B5CF6&labelColor=111827"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AlissonKawan&style=for-the-badge&color=8B5CF6"/>
+<img src="https://komarev.com/ghpvc/?username=AlissonKawan&style=for-the-badge&color=7C3AED"/>
 
 </div>
 
@@ -28,79 +28,86 @@
 
 # 👨‍💻 Sobre mim
 
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** e desenvolvedor focado em **back-end com Java**.
+
+Atualmente estudo e desenvolvo projetos usando **Java, Spring Boot, APIs REST, banco de dados, React e TypeScript**.
+
+Meu foco é construir aplicações reais, entender arquitetura de software na prática e evoluir como desenvolvedor.
+
 ```java
 public class AlissonKawan {
 
-    String role = "Back-end Developer";
+    private String role = "Java Developer";
 
-    String[] stack = {
+    private String[] mainStack = {
         "Java",
         "Spring Boot",
+        "APIs REST",
+        "SQL",
         "React",
-        "TypeScript",
-        "MySQL",
-        "Docker"
+        "TypeScript"
     };
 
-    String[] studying = {
-        "Arquitetura de Software",
-        "APIs REST",
-        "Microservices",
+    private String[] interests = {
+        "Back-end",
+        "Software Architecture",
         "Clean Code",
-        "Cloud"
+        "Databases",
+        "Cloud",
+        "DevOps"
     };
 }
 ```
 
 ---
 
-# 🚀 Tecnologias
+# 🚀 Stack principal
 
 <div align="center">
 
-### 🔥 Back-end
+## ☕ Back-end
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,maven,hibernate"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres"/>
 
----
+<br/><br/>
 
-### 🎨 Front-end
+## ⚛️ Front-end
 
-<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css"/>
 
----
+<br/><br/>
 
-### ⚙️ Ferramentas
+## 🧰 Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,linux,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,idea,vscode"/>
 
 </div>
 
 ---
 
-# 📈 Estatísticas
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonKawan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlissonKawan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonKawan&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonKawan&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"/>
 
 </div>
 
 ---
 
-# ⚡ GitHub Streak
+# 🔥 Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AlissonKawan&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=FFFFFF"/>
+<img src="https://streak-stats.demolab.com?user=AlissonKawan&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=FFFFFF&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </div>
 
 ---
 
-# 📊 Activity Graph
+# 📈 Atividade
 
 <div align="center">
 
@@ -110,23 +117,33 @@ public class AlissonKawan {
 
 ---
 
-# 🏆 Conquistas
+# 🧩 Resumo do perfil
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AlissonKawan&theme=discord&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlissonKawan&theme=midnight_purple"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlissonKawan&theme=midnight_purple"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlissonKawan&theme=midnight_purple"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlissonKawan&theme=midnight_purple"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlissonKawan&theme=midnight_purple&utcOffset=-3"/>
 
 </div>
 
 ---
 
-# 💻 Projeto em destaque
+# 🏆 Conquistas
 
 <div align="center">
 
-<a href="https://github.com/AlissonKawan/ProjetoJoseRelatorio">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=AlissonKawan&repo=ProjetoJoseRelatorio&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=AlissonKawan&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
 
 </div>
 
@@ -139,6 +156,7 @@ public class AlissonKawan {
 🌱 Spring Boot
 🧱 Arquitetura em camadas
 🔌 APIs REST
+🗄️ Banco de dados
 🐳 Docker
 ⚛️ React + TypeScript
 ```
@@ -148,14 +166,14 @@ public class AlissonKawan {
 # 🎯 Objetivo
 
 ```txt
-Construir aplicações reais, evoluir como desenvolvedor back-end
-e transformar conhecimento em produto de verdade.
+Evoluir como desenvolvedor, construir aplicações reais
+e transformar conhecimento técnico em software útil.
 ```
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=140&section=footer"/>
 
 </div>
