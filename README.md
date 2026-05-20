@@ -9,7 +9,6 @@ Foco em desenvolvimento back-end, APIs REST, banco de dados e aplicações web.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlissonKawan)
 [![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=flat-square&logo=gmail&logoColor=white)](mailto:alissonkawan34@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/AlissonKawan?style=flat-square&color=8B5CF6&labelColor=111827)](https://github.com/AlissonKawan)
 
 </div>
 
@@ -29,9 +28,13 @@ Foco em desenvolvimento back-end, APIs REST, banco de dados e aplicações web.
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlissonKawan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF&count_private=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlissonKawan&theme=github_dark"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonKawan&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"/>
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlissonKawan&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlissonKawan&theme=github_dark&utcOffset=-3"/>
 
 </div>
 
@@ -41,6 +44,6 @@ Foco em desenvolvimento back-end, APIs REST, banco de dados e aplicações web.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlissonKawan&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlissonKawan&theme=github-dark&hide_border=true"/>
 
 </div>
