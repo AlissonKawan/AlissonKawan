@@ -1,8 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=180&section=header&text=Alisson%20Kawan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+# Alisson Kawan
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=Java+Developer;Back-end+Developer;Spring+Boot+%7C+REST+APIs+%7C+SQL;React+%2B+TypeScript;FIAP+%7C+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Disciplina+%3E+Talento" />
+### Java Developer | Back-end | Spring Boot | APIs REST | SQL
+
+Estudante de **Análise e Desenvolvimento de Sistemas na FIAP**  
+focado em desenvolvimento back-end com **Java**, criação de **APIs REST**  
+e construção de aplicações reais.
+
+**Disciplina > Talento**
 
 <br/>
 
@@ -18,74 +24,43 @@
   <img src="https://img.shields.io/github/followers/AlissonKawan?style=for-the-badge&color=8B5CF6&labelColor=111827"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AlissonKawan&style=for-the-badge&color=7C3AED"/>
-
 </div>
 
 ---
 
-# 👨‍💻 Sobre mim
+## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** e desenvolvedor focado em **back-end com Java**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** e estou construindo minha base como desenvolvedor, principalmente com foco em **Java**, **Spring Boot**, **APIs REST**, **SQL** e arquitetura em camadas.
 
-Atualmente estudo e desenvolvo projetos usando **Java, Spring Boot, APIs REST, banco de dados, React e TypeScript**.
-
-Meu foco é construir aplicações reais, entender arquitetura de software na prática e evoluir como desenvolvedor.
-
-```java
-public class AlissonKawan {
-
-    private String role = "Java Developer";
-
-    private String[] mainStack = {
-        "Java",
-        "Spring Boot",
-        "APIs REST",
-        "SQL",
-        "React",
-        "TypeScript"
-    };
-
-    private String[] interests = {
-        "Back-end",
-        "Software Architecture",
-        "Clean Code",
-        "Databases",
-        "Cloud",
-        "DevOps"
-    };
-}
-```
+Também estudo front-end com **React** e **TypeScript**, buscando entender melhor como aplicações completas funcionam do back ao front.
 
 ---
 
-# 🚀 Stack principal
+## Stack
 
 <div align="center">
 
-## ☕ Back-end
+### Back-end
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres"/>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres"/>
 
-<br/><br/>
+<br/>
 
-## ⚛️ Front-end
+### Front-end
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css"/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind"/>
 
-<br/><br/>
+<br/>
 
-## 🧰 Ferramentas
+### Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,idea,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -97,17 +72,7 @@ public class AlissonKawan {
 
 ---
 
-# 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AlissonKawan&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=FFFFFF&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-</div>
-
----
-
-# 📈 Atividade
+## Commits e atividade
 
 <div align="center">
 
@@ -117,17 +82,11 @@ public class AlissonKawan {
 
 ---
 
-# 🧩 Resumo do perfil
+## Participação no GitHub
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlissonKawan&theme=midnight_purple"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlissonKawan&theme=midnight_purple"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlissonKawan&theme=midnight_purple"/>
 
 <br/><br/>
 
@@ -139,41 +98,13 @@ public class AlissonKawan {
 
 ---
 
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlissonKawan&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
-
-</div>
-
----
-
-# 🧠 Atualmente estudando
+## Atualmente estudando
 
 ```txt
-☕ Java moderno
-🌱 Spring Boot
-🧱 Arquitetura em camadas
-🔌 APIs REST
-🗄️ Banco de dados
-🐳 Docker
-⚛️ React + TypeScript
-```
-
----
-
-# 🎯 Objetivo
-
-```txt
-Evoluir como desenvolvedor, construir aplicações reais
-e transformar conhecimento técnico em software útil.
-```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=140&section=footer"/>
-
-</div>
+Java
+Spring Boot
+APIs REST
+SQL
+Arquitetura em camadas
+React + TypeScript
+Docker
