@@ -6,7 +6,7 @@ Desenvolvimento de software com foco em Java, APIs e bancos de dados.
 
 ## Sobre
 
-Estudante de Análise e Desenvolvimento de Sistemas na FIAP. No estágio em TI, combino suporte ao ambiente corporativo com o desenvolvimento de sistemas internos e automações.
+Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com experiência no desenvolvimento de sistemas internos e automações.
 
 Meus projetos envolvem integração entre aplicações, organização de regras de negócio e persistência de dados. Tenho foco em Java e Spring Boot e também estudo C# e ASP.NET Core MVC.
 
